@@ -27,7 +27,7 @@
 - Integración con APIs públicas y privadas
 
 ### ⏱️ Orquestación y automatización
-- Apache Airflow, Cloud Composer,
+- Apache Airflow, Cloud Composer
 
 ### 🤖 Machine Learning & NLP
 - Scikit-learn, NLTK, SpaCy, Transformers, BERT
