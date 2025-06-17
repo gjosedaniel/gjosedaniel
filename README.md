@@ -50,5 +50,5 @@
 
 ---
 
-📫 **Conectá conmigo o explorá mis proyectos para descubrir cómo los datos pueden impulsar decisiones estratégicas.**
+📫 **Conectá conmigo a [Email](mailto:gjosedaniel2@gmail.com) o vía [LinkedIn]([https://www.linkedin.com/in/tu-nombre-de-usuario/](https://www.linkedin.com/in/jos%C3%A9-daniel-gim%C3%A9nez-0863242b3/)) o explorá mis proyectos para descubrir cómo los datos pueden impulsar decisiones estratégicas.**
 
